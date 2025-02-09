@@ -41,8 +41,7 @@ matplotlib==3.8.3
 ml-dtypes==0.3.2
 networkx==3.3
 numpy==1.26.4
-opencv-python==4.9.0.80
-opencv-python-headless
+opencv-python-headless==4.9.0.80
 pandas==2.2.1
 pillow==10.2.0
 plotly==6.0.0
